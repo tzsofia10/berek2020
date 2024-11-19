@@ -80,3 +80,4 @@ foreach (var stat in departmentStats)
 {
     Console.WriteLine($"- {stat.Reszleg}: {stat.Count} fő");
 }
+Console.WriteLine("50 perc alatt lettem kész");
